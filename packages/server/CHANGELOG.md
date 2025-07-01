@@ -1,5 +1,25 @@
 # @mastra/deployer
 
+## 0.10.9-alpha.0
+
+### Patch Changes
+
+- a606c75: show right suspend schema for nested workflow on playground
+- 038e5ae: Add cancel workflow run
+- 7e801dd: Add tools to network api response
+- Updated dependencies [9dda1ac]
+- Updated dependencies [7e801dd]
+- Updated dependencies [a606c75]
+- Updated dependencies [7aa70a4]
+- Updated dependencies [764f86a]
+- Updated dependencies [1760a1c]
+- Updated dependencies [038e5ae]
+- Updated dependencies [7dda16a]
+- Updated dependencies [4e809ad]
+- Updated dependencies [57929df]
+- Updated dependencies [6320a61]
+  - @mastra/core@0.10.9-alpha.0
+
 ## 0.10.8
 
 ### Patch Changes

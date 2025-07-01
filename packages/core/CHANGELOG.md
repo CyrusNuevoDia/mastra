@@ -1,5 +1,22 @@
 # @mastra/core
 
+## 0.10.9-alpha.0
+
+### Patch Changes
+
+- 9dda1ac: dependencies updates:
+  - Updated dependency [`hono@^4.8.3` ↗︎](https://www.npmjs.com/package/hono/v/4.8.3) (from `^4.7.11`, in `dependencies`)
+- 7e801dd: [MASTRA-4118] fixes issue with agent network loopStream where subsequent messages aren't present in playground on refresh
+- a606c75: show right suspend schema for nested workflow on playground
+- 7aa70a4: Use the right step id for nested workflow steps in watch-v2
+- 764f86a: Introduces the runCount property in the execution parameters for the steps execute function
+- 1760a1c: Use workflow stream in playground instead of watch
+- 038e5ae: Add cancel workflow run
+- 7dda16a: Agent Network: Prompting improvements for better decisions
+- 4e809ad: Visualizations for .sleep()/.sleepUntil()/.waitForEvent()
+- 57929df: [MASTRA-4143[ change message-list and agent network display
+- 6320a61: Allow passing model to generateTitle to override default model selection.
+
 ## 0.10.8
 
 ### Patch Changes
